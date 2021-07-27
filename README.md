@@ -1,4 +1,4 @@
-- 👋 Hi, I’m luhan nazariasl (@LH-cloud)
+- 👋 Hi, I’m luhan nazariasl (@LuhanNazariAsl)
 - 👀 I’m interested in web development(front-end),UX, Data science and A.I.
 - 🌱 I’m currently learning UX and Front-end frameworks
 - 💞️ I believe I still need to learn a lot before I can effectively collaborate.🙂

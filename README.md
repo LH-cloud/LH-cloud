@@ -1,7 +1,7 @@
 - 👋 Hi, I’m luhan nazariasl (@LH-cloud)
 - 👀 I’m interested in web development(front-end),UX, Data science and A.I.
 - 🌱 I’m currently learning UX and Front-end frameworks
-- 💞️ I’m looking to collaborate on front-end development projects.
+- 💞️ I believe I still need to learn a lot before I can effectively collaborate.🙂
 - 📫 How to reach me: lu.stewartx@gmail.com
 
 <!---
